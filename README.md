@@ -14,7 +14,8 @@
     <a href="https://twitter.com/Nextclouders">Twitter</a>
     <br /><br />
 <hr><hr>
-<a href="https://nextcloud.com/"><img src="https://nextcloud.com/media/nextcloud20.png" alt="A safe home for all your data. Access & share your files, calendars, contacts, mail & more from any device, on your terms.." /></a>
+
+![image](https://user-images.githubusercontent.com/82649533/232209599-64649ab6-ff0b-4715-a282-121e3d75aae1.png)
 
 &nbsp;
 
