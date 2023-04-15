@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://nextcloud.com/#gh-dark-mode-only" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/1200px-Nextcloud_Logo.svg.png" alt="Ghost" width="440px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/1200px-Nextcloud_Logo.svg.png" alt="nextcloud" width="440px">
   </a>
 </p>
 &nbsp;
@@ -26,7 +26,7 @@ A safe home for all your data. Access & share your files, calendars, contacts, m
 
 Nextcloud.com
 
-<a href="https://ghost.org/pricing/#gh-dark-mode-only" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/1200px-Nextcloud_Logo.svg.png" alt="Ghost(Pro)" width="165px" /></a>
+<a href="https://nextcloud.com/#gh-dark-mode-only" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Nextcloud_Logo.svg/1200px-Nextcloud_Logo.svg.png" alt="Nextcloud(Pro)" width="165px" /></a>
 
 This Docker micro-service image is developed and maintained by the Nextcloud community. Nextcloud GmbH does not offer support for this Docker image. When you are looking to get professional support, you can become an enterprise customer or use AIO.
 &nbsp
